@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Coffee Leaf Analyzer: Nutritional Stress Severity and Nutrient Deficiency Classification using CNNs
 
 > **Authors**:  
@@ -180,3 +181,6 @@ This project is released under the **MIT License**. See the [LICENSE](./LICENSE)
 ---
 
 *© 2025 Coffee Leaf Analyzer Project – New Era University*
+=======
+# Coffee-Leaf-Analyzer
+>>>>>>> 5370e090fde8ee946d137035c031171b2b2e0b3d
